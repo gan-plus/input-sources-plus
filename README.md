@@ -2,7 +2,7 @@
 This is a macOS input sources plus software.  
 这是一个 macOS 输入法辅助软件。
 
-*开发持续进行中，敬请期待……*
+*开发持续进行中 ✍️，敬请期待……*
 
 ## 功能
 
@@ -15,4 +15,4 @@ This is a macOS input sources plus software.
 
 > 以上这些功能也有 App 实现了，但要么收费，要么免费闭源，要么实现了只一个或几个功能，等等，总之不够完美。具体我会写到 FQA 里面。
 
-**总之我要做一款实现以上功能免费且 GPL 开源的 App，这款毫无收益的 App 还得靠我挤时间来开发，因此请给我个 Star，支持下吧！**
+**总之我要做一款实现以上功能免费且 GPL 开源的 App，这款毫无收益 💰 的 App 还得靠我挤时间来开发，因此请给我个 Star ⭐️，支持下吧！**
