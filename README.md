@@ -1,5 +1,5 @@
 # input-sources-plus
-This is a macOS input sources plus software.
+This is a macOS input sources plus software.  
 这是一个 macOS 输入法辅助软件。
 
 ## 功能
@@ -8,9 +8,10 @@ This is a macOS input sources plus software.
 - [ ] 2. 配置输入法在屏幕边缘显示的颜色条，即使 App 全屏也能显示。
 - [ ] 3. 能识别搜狗、百度、鼠须管等能通过 Shift 切换中英文状态。（将是全网唯一支持此功能的 App。）
 - [ ] 4. 记录 App 的输入法，即使重启 App 也能使用该 App 上次使用的输入法。
-- [ ] 5. ~~为 App 配置默认输入法。~~
+- [ ] 5. ~~为 App 配置默认输入法。~~  
      （有了功能 4，功能 5 就有点多余得了。程序要简单实用，过多的配置只会让用户感觉这个 App 使用起来真复杂。一个 App 能不通过配置就满足用户的需求，这是对用户最好的体验。）
 
 以上这些功能在也有 App 实现了，但要么收费，要么免费闭源，要么实现了一个或几个功能，等等，具体我会写到 FQA 里面。
+
 **总之我要做一款实现以上功能免费且 GPL 开源的 App，这款毫无收益的 App 还得靠我挤时间来开发，因此请给我个 Star，支持下吧！**
 
