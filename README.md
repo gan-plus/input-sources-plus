@@ -2,6 +2,8 @@
 This is a macOS input sources plus software.  
 这是一个 macOS 输入法辅助软件。
 
+*开发持续进行中，敬请期待……*
+
 ## 功能
 
 - [ ] 1. 按 Shift 切换输入法。
